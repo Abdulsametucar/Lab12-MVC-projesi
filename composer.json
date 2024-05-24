@@ -1,0 +1,13 @@
+{
+    "name": "sam/deneme",
+    "type": "project",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Sam"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "*"
+    }
+}
